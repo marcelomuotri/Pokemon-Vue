@@ -6,6 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit"
+ 
   },
   "dependencies": {
     "@babel/polyfill": "^7.11.5",
@@ -30,5 +31,6 @@
     "typescript": "~3.9.3",
     "vue-cli-plugin-bootstrap-vue": "~0.8.2",
     "vue-jest": "^5.0.0-0"
+   
   }
 }
