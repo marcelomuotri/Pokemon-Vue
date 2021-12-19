@@ -2,7 +2,7 @@
   <div v-if="mostrar" class="clase w3-animate-opacity">
     <div class="card">
       <div class="titulo">
-        <h1>Juego finalizado</h1>
+        <h1>Juego finalizado !</h1>
         <h2>Score:  {{puntaje}}</h2>
       </div>
       <div>
